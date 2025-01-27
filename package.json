@@ -1,7 +1,6 @@
 {
   "name": "8.2-postgres-read",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -16,5 +15,15 @@
     "ejs": "^3.1.10",
     "express": "^4.21.2",
     "pg": "^8.13.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhijeet-malik/capital-quiz-india.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abhijeet-malik/capital-quiz-india/issues"
+  },
+  "homepage": "https://github.com/abhijeet-malik/capital-quiz-india#readme",
+  "description": ""
 }
