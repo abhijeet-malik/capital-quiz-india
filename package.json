@@ -16,7 +16,6 @@
     "express": "^4.21.2",
     "pg": "^8.13.1"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/abhijeet-malik/capital-quiz-india.git"
